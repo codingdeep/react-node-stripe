@@ -1,5 +1,5 @@
 {
-  "name": "stripe",
+  "name": "node_stripe",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
